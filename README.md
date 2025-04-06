@@ -14,11 +14,11 @@ With experience across Python, SQL, cloud platforms (AWS, Azure, Snowflake), and
 
 - Mr. Milchick: A Virtual Mahattan Real Estate Agent (Prototype)
 
-_- Exploratory notebooks using Python, Pandas, and SQL
+- Exploratory notebooks using Python, Pandas, and SQL
 - Lightweight app concepts (e.g. Streamlit, Flask)
 - Data integration & transformation pipelines
 - Visualization experiments and demo dashboards
-- Experimentation with GenAI, RAG, and LLM workflows_
+- Experimentation with GenAI, RAG, and LLM workflows
 
 ## 📫 Connect With Me
 
