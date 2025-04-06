@@ -14,6 +14,8 @@ With experience across Python, SQL, cloud platforms (AWS, Azure, Snowflake), and
 
 - Mr. Milchick: A Virtual Mahattan Real Estate Agent (Prototype)
 
+------------------------------------------------------------
+
 - Exploratory notebooks using Python, Pandas, and SQL
 - Lightweight app concepts (e.g. Streamlit, Flask)
 - Data integration & transformation pipelines
@@ -25,5 +27,5 @@ With experience across Python, SQL, cloud platforms (AWS, Azure, Snowflake), and
 Feel free to reach out if you're exploring collaboration, hiring for technical sales roles, or just want to nerd out on modern data infrastructure.
 
 📧 [thomashaddock122@gmail.com](mailto:thomashaddock122@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/thomas-haddock)  
+🔗 [LinkedIn](https://www.linkedin.com/in/thomas-a-haddock/)  
 🌐 [Portfolio (coming soon)]()
